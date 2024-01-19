@@ -1,0 +1,32 @@
+[33mcommit 56235fdb720018e291d5612dc2d798101fd6dba5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAssignment-Sonam[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Deepak Bomjan <dpaktamang@gmail.com>
+Date:   Thu Jan 18 07:18:14 2024 +0545
+
+    added git steps
+
+[33mcommit 312a43810375d0a223b6356668b1bd05ce7b1316[m
+Author: Deepak Bomjan <dpaktamang@gmail.com>
+Date:   Thu Jan 18 07:16:29 2024 +0545
+
+    added steps to work in the git
+
+[33mcommit d37d327249c8dadc6ca90f4133d9cae04ba66f73[m
+Merge: 3a3201c 4bd9a17
+Author: DeepakBomjan <44976635+DeepakBomjan@users.noreply.github.com>
+Date:   Thu Jan 18 07:08:44 2024 +0545
+
+    Merge pull request #1 from DeepakBomjan/teacher
+    
+    added assignments for unit 1, and unit 2; must be submitted by feb 7 …
+
+[33mcommit 4bd9a1793dca91e218668407fc69eb07ff0c5436[m[33m ([m[1;31morigin/teacher[m[33m)[m
+Author: Deepak Bomjan <dpaktamang@gmail.com>
+Date:   Thu Jan 18 07:04:11 2024 +0545
+
+    added assignments for unit 1, and unit 2; must be submitted by feb 7 2024
+
+[33mcommit 3a3201c40d252f0f6cc6a7a41ab095c5bf9e7145[m
+Author: Deepak Bomjan <dpaktamang@gmail.com>
+Date:   Fri Jan 5 07:36:58 2024 +0545
+
+    initial commit

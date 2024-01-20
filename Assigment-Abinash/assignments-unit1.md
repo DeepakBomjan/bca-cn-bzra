@@ -5,7 +5,7 @@
 ### _The open system interconnection **(OSI)** model is defined as a standard model used to describe the flow of information from one computing device t another operating in a networking environment._   
 ### The model defines a set of rules and requirements for data communication and interoperability between different devices, products, and software in a network infrastructure. The OSI model is split into seven fundamental layers (bottom to top): Physical, Data Link, Network, Transport, Session, Presentation, and Application.
 
-![image1](../../../Assignment/bca-cn-bzra/Images/7_layers.png)
+![image1](../../../Assignment/bca-cn-bzra/Assigment-Abinash/Images/7_layers.png)
 
 ### **Importance of OSI Model :** 
 
@@ -38,7 +38,7 @@
 * **DNS (Domain Name System)** – used for host names to the IP address resolution.
 * **HTTP (Hypertext Transfer Protocol)** – used to transfer files (text, graphic images, sound, video, and other multimedia files) on the World Wide Web.
 
-![image2](../../bca-cn-bzra/Images/TCP_IP.png)
+![image2](../../bca-cn-bzra/Assigment-Abinash/Images/TCP_IP.png)
 
 
 ## **3. Differenciate between OSI and TCP/IPv4.**
@@ -92,7 +92,7 @@
 
 ![image3](../../../Assignment/bca-cn-bzra/Images/Data,%20Information,%20and%20Knowledge.png)
 
-![image3](../../../Assignment/bca-cn-bzra/Images/data.png)
+![image3](../../../Assignment/bca-cn-bzra/Assigment-Abinash/Images/data.png)
 
 
 
@@ -100,7 +100,7 @@
 
 ### A **Computer networking** is a system that connects two or more computing devices for transmitting and sharing information. Computing devices include everything from a mobile phone to a server. These devices are connected using physical wires such as fiber optics, but they can also be wireless.
 
-![image4](../../../Assignment/bca-cn-bzra/Images/Network.png)
+![image4](../../../Assignment/bca-cn-bzra/Assigment-Abinash/Images/Network.png)
 
 ### **Components of a Computer Network :**
 
@@ -146,4 +146,4 @@ A communication protocol is a set of rules followed by all nodes involved in the
 
 While nodes, links, and protocols form the foundation of a network, a modern network cannot exist without its defenses. Security is critical when unprecedented amounts of data are generated, moved, and processed across networks. A few examples of network defense tools include firewall, intrusion detection systems (IDS), intrusion prevention systems (IPS), network access control (NAC), content filters, proxy servers, anti-DDoS devices, and load balancers.
 
-![image5](../../../Assignment/bca-cn-bzra/Images/Component.jpg)
+![image5](../../../Assignment/bca-cn-bzra/Assigment-Abinash/Images/Component.jpg)

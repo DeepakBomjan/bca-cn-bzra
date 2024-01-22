@@ -40,7 +40,7 @@ Similarly, network speed depends on various network and device factors. These in
 ## ![Alt text](images/noise.jpg "a title")
 
 ## 5. Describe types of Media?
-## 6. What is modulation and demodulation and its importance in data communication?
-## 6. Describe various types of switching in network communicaiton?
-## 6. What is multiplexing and its usage?
+## 7. What is modulation and demodulation and its importance in data communication?
+## 8 Describe various types of switching in network communicaiton?
+## 9. What is multiplexing and its usage?
 

@@ -20,3 +20,25 @@
 #### TCP/IP is based on the client-server communication model, which means that a user of a first computer (the client) sends a service request to a second network computer or web hosting provider(server), such as forwarding a Web page. TCP/IP also uses point-to-point communication, which means that data is sent from one host computer to another within a defined network border. In TCP/IP model, each client request is unique and unrelated to previous ones. Hence, it is called stateless, and being stateless allows network channels to be used indefinitely.
 
 #### Because the entire process is standardized, the TCP/IP model works. Without standardization, communication would go haywire, and fast internet service relies on efficiency. The TCP/IP model provides both efficiency and standardization. The TCP/IP model is the most effective way to send internet data because it is the global standard.
+## 3. Differenciate between OSI and TCP/IPv4
+#### OSI vs TCP/IPv4
+- OSI stands for Open System Interconnection where as TCP/IPv4 stands for Transmission control protocol/ internet version 4.
+- OSI has 7 layers where as It has only 4 layers.
+- It is a structured model which deals which the functioning of a network where as It is a communication protocol that is based on standard protocols and allows the connection of hosts over a network.
+- It follows a vertical approach where as TCP/IP follows horizontal approach.
+- Delivery of the package is guarante in OSI model where as Delivery of the packages is not gurante in TCP/IP model.
+- It is less reliable where as TCP/IP is more reliable than OSI.
+## 4. What is data and information?
+#### Ans. Data can be defined as a representation of facts, concepts, or instructions in a formalized manner, which should be suitable for communication, interpretation, or processing by human or electronic machine.
+
+#### Data is represented with the help of characters such as alphabets (A-Z, a-z), digits (0-9) or special characters (+,-,/,*,<,>,= etc.)
+## What is Information?
+#### Information is organized or classified data, which has some meaningful values for the receiver. Information is the processed data on which decisions and actions are based.For the decision to be meaningful, the processed data must qualify for the following characteristics −
+
+- Timely − Information should be available when required.
+- Accuracy − Information should be accurate.
+- Completeness − Information should be complete.
+## 4. What is computer networking?
+#### Ans. A computer network is a group of computers linked to each other that enables the computer to communicate with another computer and share their resources, data, and applications.
+#### A computer network can be categorized by their size. A computer network is mainly of four types:
+## ![Alt text](images/4.png "a title")

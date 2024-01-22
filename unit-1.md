@@ -1,11 +1,11 @@
 ## Assignments 
 # Unit-1
 ## 1. Describe OSI layer and its importance in computer networking.
-## Ans. OSI (open system interconnection) is a reference model for how applications communicate over a network. This model focuses on providing a visual design of how each communication layer is built on the top of the other starting with the physical cabling all the way to the application that's trying to coomunicate with other device on a network.OSI model is a layered framework that allows communication between all types of the computer system. It has 7 layers.
-1. Application Layer
-2. Presentation Layer
-3. Session Layer
-4. Transport Layer
-5. Network Layer
-6. Data-Link Layer
-7. Physical Layer
+#### Ans. OSI (open system interconnection) is a reference model for how applications communicate over a network. This model focuses on providing a visual design of how each communication layer is built on the top of the other starting with the physical cabling all the way to the application that's trying to coomunicate with other device on a network.OSI model is a layered framework that allows communication between all types of the computer system. It has 7 layers.
+
+## ![Alt text](images/1.jpg "a title")
+## Its importance are:
+#### The layers of the Open Systems Interconnection (OSI) model encapsulate every type of network communication across both software and hardware components. The model was designed to allow two standalone systems to communicate via standardised interfaces or protocols based on the current layer of operation.
+- Shared understanding of complex systems: Engineers can use the OSI model to organize and model complex networked system architectures. They can separate the operating layer of each system component according to its main functionality. The ability to decompose a system into smaller, manageable parts via abstraction makes it easier for people to conceptualize it as a whole.
+- Faster research and development: With the OSI reference model, engineers can understand their work better. They know which technological layer (or layers) they’re developing for when they create new, networked systems that need to communicate with each other. Engineers can develop networked systems and take advantage of a series of repeatable processes and protocols. 
+- Flexible standardization: The OSI model does not specify the protocols to use between levels, but rather the tasks that protocols perform. It standardizes network communication development so people can rapidly understand, build, and decompose highly complex systems—all  without prior knowledge of the system. It also abstracts details, so engineers don’t require the understanding of every aspect of the model. In modern applications, the lower levels of networking and protocols are abstracted away to simplify system design and development.

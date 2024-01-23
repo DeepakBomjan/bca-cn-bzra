@@ -40,6 +40,24 @@ Similarly, network speed depends on various network and device factors. These in
 ## ![Alt text](images/noise.jpg "a title")
 
 ## 5. Describe types of Media?
+#### Anss. In data communication terminology, a transmission medium is a physical path between the transmitter and the receiver i.e. it is the channel through which data is sent from one place to another. Transmission Media is broadly classified into the following types: 
+## ![Alt text](images/media.png "a title")
+1. #### Guided Media: 
+#### It is also referred to as Wired or Bounded transmission media. Signals being transmitted are directed and confined in a narrow pathway by using physical links. 
+### Features:  
+
+- High Speed
+- Secure
+- Used for comparatively shorter distances
+2. #### Unguided Media: 
+#### It is also referred to as Wireless or Unbounded transmission media. No physical medium is required for the transmission of electromagnetic signals. 
+
+### Features:  
+
+- The signal is broadcasted through air
+- Less Secure
+- Used for larger distances
+
 ## 7. What is modulation and demodulation and its importance in data communication?
 ## 8 Describe various types of switching in network communicaiton?
 ## 9. What is multiplexing and its usage?

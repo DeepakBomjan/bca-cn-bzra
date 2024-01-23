@@ -59,6 +59,38 @@ Similarly, network speed depends on various network and device factors. These in
 - Used for larger distances
 
 ## 7. What is modulation and demodulation and its importance in data communication?
-## 8 Describe various types of switching in network communicaiton?
-## 9. What is multiplexing and its usage?
+#### Ans. Modulation is the process of converting data into radio waves by adding information to an electronic or optical carrier signal. A carrier signal is one with a steady waveform -- constant height, or amplitude, and frequency.
+#### Demodulation is the process of extracting the original information-carrying signal from a modulated carrier wave, in order to recover the original data or message.
+- Using Frequencies Efficiently:
 
+Modulation helps send information using different radio frequencies, allowing many signals to travel together without getting mixed up. It's like having different radio stations on separate frequencies.
+- Sending Signals Far Away:
+
+Modulating signals onto carrier waves lets them travel long distances without losing strength. This is helpful for things like radio signals reaching from a broadcasting station to your car radio.
+- Protecting Signals from Noise:
+
+Modulation makes signals less affected by interference or static during transmission. It's like using a clear phone signal even when there's some background noise around.
+- Combining Different Types of Information:
+
+Modulation allows us to send various types of information (voice, video, data) at the same time. It's like multiple TV channels sharing the same cable without mixing up their shows.
+- Getting Back the Original Information:
+
+Demodulation is like unwrapping a packaged gift. It helps recover the original signal from the modulated one, ensuring we get the correct information at the receiving end.
+## 8 Describe various types of switching in network communicaiton?
+#### Ans. Switching is the process to forward packets coming in form one port to a port leading towards the destination. When data comes on a port it is called ingress, and when data leaves a port or goes it is called egress.
+## ![Alt text](images/switching.png "a title")
+1. Circuit Switching: When two nodes communicate with each other over a dedicated communication path it is called circuit switching.
+2. Packet Switching: The packet switching is a switching technique in which the message is sent in one go, but it is divided into smaller pieces, and they are sent individually.
+3. Message Switching: Message switching is a switching technique in which a message is transferred as a complete unit and routed through intermediate modes at which it is stored and forwarded.
+
+
+## 9. What is multiplexing and its usage?
+#### Ans. Multiplexing is a technique used to combine and send the multiple data streams over a single medium. The process of combining the data streams is known as multiplexing and hardware used for multiplexing is known as a multiplexer.
+
+#### Multiplexing is achieved by using a device called Multiplexer (MUX) that combines n input lines to generate a single output line. Multiplexing follows many-to-one, i.e., n input lines and one output line.
+## ![Alt text](images/multiplex.png "a title")
+- The 'n' input lines are transmitted through a multiplexer and multiplexer combines the signals to form a composite signal.
+- The composite signal is passed through a Demultiplexer and demultiplexer separates a signal to component signals and transfers them to their respective destinations.
+## Advantages of Multiplexing:
+- More than one signal can be sent over a single medium.
+- The bandwidth of a medium can be utilized effectively.

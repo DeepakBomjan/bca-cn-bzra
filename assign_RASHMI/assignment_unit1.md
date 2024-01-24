@@ -67,3 +67,5 @@
 ## Q.NO.5 What is computer networking?
 ### Ans: Computer networking is the practice of connecting computers and other devices together to share resources, exchange information, and communicate with each other. The primary purpose of computer networking is to enable the sharing of resources and information in an efficient and organized manner.
 
+## UNIT 2
+

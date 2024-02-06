@@ -44,15 +44,9 @@ The layers of TCP/IP network is listed below:
 The difference between OSI and TCP/IP is given below
 
 OSI | TCP/IP
------------------------------------------------------------------|----------------------------------------------------------------
-1. OSI is known as Open System Interconnection.                  | 1. TCP is known as Transmission Control Protocol/ Internet Protocol.
-                                                                 |
-2. Low usage, Since it employes complex system                   | 2. Mostly used as compared to OSI model.
-                                                                 |
-3. Rigid and strict seperation of concerns between adjacent layer| 3. More Flexible in layer Interaction.
-   s                                                             |
-                                                                 |
-4. Provides 7 layers                                             | 4. Provides 4 layers.
-                                                                 |
-5. A conceptual framework that is designed to understand various | 5. Practical model that addresses specific communcation challenged and relies  
-   network communication methods                                 |    on standardized protocol
+----|----
+1. OSI is known as Open System Interconnection.| 1. TCP is known as Transmission Control Protocol/ Internet Protocol.
+2. Low usage, Since it employes complex system| 2. Mostly used as compared to OSI model.
+3. Rigid and strict seperation of concerns between adjacent layers| 3. More Flexible in layer Interaction.
+4. Provides 7 layers| 4. Provides 4 layers.
+5. A conceptual framework that is designed to understand various network communication methods| 5. Practical model that addresses specific communcation challenged and relies on standardized protocol

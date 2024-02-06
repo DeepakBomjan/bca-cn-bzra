@@ -1,4 +1,4 @@
-# Unit 1 All Assignment
+# Unit 1 All Assignments
 ## Question Contents:
 1. Describe OSI layer and its importance in computer networing
 2. Describe TCP/IPv4 protocol suite.
@@ -63,3 +63,5 @@ The difference between OSI and TCP/IP is given below
 
 ## 5. What is Computer Networking?
 Computer networking is the connection of computers together to enable communication and data exchange between them. It's building blocks are nodes and links. Nodes refering to the meduims like router, and modem or data terminals like computers. Links refering to the modes like wire cables or wireless network.
+
+---

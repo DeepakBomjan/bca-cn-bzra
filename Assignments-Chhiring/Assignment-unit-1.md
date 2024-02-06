@@ -8,7 +8,7 @@
 
 
 ## Solutions:
-### Describe OSI layer and its importance in computer networking.
+## Describe OSI layer and its importance in computer networking.
 OSI (Open System Interconnection), Describes the how computer network communicates with each other in a network. It was developed by ISO **'International Organization for Standardization'** in 1984. Primarily it is a conceptual framework that staandrardize the functions of a system, that helps to undestand and design network. OSI reference model is a 7 layer architecture with each layer having specific functionality to perform.
 
 Importance of OSI in Computer Networking are listed below:
@@ -23,3 +23,36 @@ Importance of OSI in Computer Networking are listed below:
 5. Helps manufacturer defining which parts of the network their products should work with
 
 
+## Describe TCP/IP protocol suite.
+The TCP/IP (Transmission control protocol/ Internet Protocol) protocol suite was designed and developed by Department of Defense (DoD). This model is primarly known as protocol suite to transfar data packets between computers using computer network. The protocol suite contains 4 layers. The IP is responsible for obtaining and defining the address of application or the device in the network and the TCP is responsible for the transporing mechanism through the network architecture and ensure the data is deliverd to the defined IP address.
+
+The layers of TCP/IP network is listed below:
+1. Application layer:
+* This is where user applications and network services interact. It combines the application, presentation and session layer to one (application layer) which handles them. HTTP for web browsing, FTP for file and SMTP for mail are some of the example of protocol in this layer.
+
+2. Transport layer:
+* Ensures end to end communication and is responsible for error detection and correction. TCP provides reliable, connection oriented communication while UDP User Diagram Protocol offers faster connection in this layer.
+
+3. Internet layer:
+* Responisble for routing, addressing and packaging data packets. IP is the curcial component of this layer. Unique IP address is assigned to devices and application accor the network.
+
+4. Network layer/ Datalink layer:
+* This layer defines how data should be sent, (format/speed). It specifies how data should be signaled by hardware and other devices such as ethernet cable. Ethernet, ATM and Switch are some example of devices on this layer.
+
+
+## Differenciate between OSI and TCP/IPv4
+The difference between OSI and TCP/IP is given below
+
+OSI | TCP/IP
+-----------------------------------------------------------------|----------------------------------------------------------------
+1. OSI is known as Open System Interconnection.                  | 1. TCP is known as Transmission Control Protocol/ Internet Protocol.
+                                                                 |
+2. Low usage, Since it employes complex system                   | 2. Mostly used as compared to OSI model.
+                                                                 |
+3. Rigid and strict seperation of concerns between adjacent layer| 3. More Flexible in layer Interaction.
+   s                                                             |
+                                                                 |
+4. Provides 7 layers                                             | 4. Provides 4 layers.
+                                                                 |
+5. A conceptual framework that is designed to understand various | 5. Practical model that addresses specific communcation challenged and relies  
+   network communication methods                                 |    on standardized protocol

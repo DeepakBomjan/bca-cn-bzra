@@ -8,7 +8,7 @@
 
 
 ## Solutions:
-## 1.Describe OSI layer and its importance in computer networking.
+## 1. Describe OSI layer and its importance in computer networking.
 OSI (Open System Interconnection), Describes the how computer network communicates with each other in a network. It was developed by ISO **'International Organization for Standardization'** in 1984. Primarily it is a conceptual framework that staandrardize the functions of a system, that helps to undestand and design network. OSI reference model is a 7 layer architecture with each layer having specific functionality to perform.
 
 Importance of OSI in Computer Networking are listed below:
@@ -22,8 +22,9 @@ Importance of OSI in Computer Networking are listed below:
 
 5. Helps manufacturer defining which parts of the network their products should work with
 
+---
 
-## 2.Describe TCP/IP protocol suite.
+## 2. Describe TCP/IP protocol suite.
 The TCP/IP (Transmission control protocol/ Internet Protocol) protocol suite was designed and developed by Department of Defense (DoD). This model is primarly known as protocol suite to transfar data packets between computers using computer network. The protocol suite contains 4 layers. The IP is responsible for obtaining and defining the address of application or the device in the network and the TCP is responsible for the transporing mechanism through the network architecture and ensure the data is deliverd to the defined IP address.
 
 The layers of TCP/IP network is listed below:
@@ -39,8 +40,9 @@ The layers of TCP/IP network is listed below:
 4. Network layer/ Datalink layer:
 * This layer defines how data should be sent, (format/speed). It specifies how data should be signaled by hardware and other devices such as ethernet cable. Ethernet, ATM and Switch are some example of devices on this layer.
 
+---
 
-## 3.Differenciate between OSI and TCP/IPv4
+## 3. Differenciate between OSI and TCP/IPv4
 The difference between OSI and TCP/IP is given below
 | OSI                                 | TCP/IP                                              |
 |-------------------------------------|-----------------------------------------------------|
@@ -49,3 +51,15 @@ The difference between OSI and TCP/IP is given below
 | 3. Rigid and strict separation of concerns between adjacent layers | 3. More flexible in layer interaction. |
 | 4. Provides 7 layers                | 4. Provides 4 layers.                                |
 | 5. A conceptual framework designed to understand various network communication methods | 5. Practical model that addresses specific communication challenges and relies on standardized protocols. |
+
+---
+
+## 4. What is Data and Information?
+* Data refers to the raw facts and figures, often in form of a number, text or symbols without any context. Thus a data can be called an unprocessed and lacks meaning on it's own.
+
+* Information on the other hand is the result of processing, organizing and giving context to the data, turning it into something meaningful and useful.
+
+---
+
+## 5. What is Computer Networking?
+Computer networking is the connection of computers together to enable communication and data exchange between them. It's building blocks are nodes and links. Nodes refering to the meduims like router, and modem or data terminals like computers. Links refering to the modes like wire cables or wireless network.

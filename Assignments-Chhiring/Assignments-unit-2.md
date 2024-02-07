@@ -27,14 +27,14 @@ Signal is a time varying parameter. Signal represent the variation of a quatity 
 ---
 
 ## 3. What is the theoretical data transfer rate(bps) in the medium of 1000Mhz bandwidth?
-  In a perfect scenario, where each hertz can transmit 2 bits of information, the maximum data rate is twice the bandwidth.
-  For a 1000Mz also a 1Ghz bandwidth channel:
-  Datarate(R)=2XBandwidth(B)
-  R=2 x 1000Mhz
-  R=2 x 10^9bps [1hz=2b]
-  R=2 x 1Gpbs
-  R=2Gbps
-  The theoretical data transfer rate (bps) is 2Gbps
+In a perfect scenario, where each hertz can transmit 2 bits of information, the maximum data rate is twice the bandwidth.
+For a 1000Mz also a 1Ghz bandwidth channel:
+Datarate(R)=2XBandwidth(B)
+R=2 x 1000Mhz
+R=2 x 10^9bps [1hz=2b]
+R=2 x 1Gpbs
+R=2Gbps
+The theoretical data transfer rate (bps) is 2Gbps
 ---
 
 ## 4. What is Tranmission Imparement? Describe each factor.
